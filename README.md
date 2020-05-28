@@ -8,3 +8,9 @@ If they don't match, turn them back over.
 Tip: Remember what was on each card and where it was. "Watch and remember"
 There is a time of 30-40 seconds to get them all
 Win/Lose condition: The game is over when all the cards have been matched or time is up.
+
+Good luck and hope you enjoyed the app.
+
+Created by Mina Ramses.
+
+Copyright © 2020 Mina Ramses. All rights reserved.
