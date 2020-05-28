@@ -11,6 +11,8 @@ Win/Lose condition: The game is over when all the cards have been matched or tim
 
 Good luck and hope you enjoyed the app.
 
+Feel free to contact me if you need any help: mina_ramses@hotmail.com
+
 Created by Mina Ramses.
 
 Copyright © 2020 Mina Ramses. All rights reserved.
